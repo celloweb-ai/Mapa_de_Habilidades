@@ -6,6 +6,8 @@
 
 Este repositório documenta meu **Mapa de Habilidades Estratégico**, desenvolvido como parte do desafio da Digital Innovation One (DIO). O objetivo é realizar um mapeamento abrangente de competências, cruzando habilidades existentes com demandas de mercado e identificando oportunidades concretas de monetização e crescimento na carreira.
 
+📄 **[Veja o Mapa de Habilidades Completo (PDF)](https://github.com/celloweb-ai/Mapa_de_Habilidades/blob/main/docs/Mapa_de_Habilidades.pdf)**
+
 ## 👨‍💻 Perfil Profissional
 
 **Engenheiro Sênior em Automação Industrial** com expertise em sistemas críticos de segurança (SAS, F&G, ESD) em ambientes offshore de alta complexidade. Atualmente em processo de expansão estratégica para **Cibersegurança Industrial (OT)** e **Inteligência Artificial aplicada à Engenharia**.
